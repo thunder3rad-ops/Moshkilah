@@ -1,0 +1,6 @@
+{
+  "name": "صوت الموظفين - منصة المشاركة المجهولة والآمنة",
+  "description": "منصة داخلية آمنة ومجهولة الهوية تتيح للموظفين كتابة ومشاركة الشكاوى والأفكار بحرية وحفظها بشكل دائم مع ردود الإدارة والتصويت المجتمعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
